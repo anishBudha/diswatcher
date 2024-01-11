@@ -22,13 +22,13 @@ Automatically open browser tabs when links matching given constraints are sent i
 
 ---
 
-3. Download and run [diswatcher.exe](google.com).
+3. Download and run [diswatcher.exe](https://github.com/anishBudha/diswatcher/releases/download/v0.1.1/diswatcher.exe) - click to download.
    > OR
-4. Download Files from github.
+3. Download Files from github.
 
-5. Copy `open.py` to your desktop.
+4. Copy `open.py` to your desktop.
 
-6. Run `open.py` and follow the prompts:
+5. Run `open.py` and follow the prompts:
 
    - **Step 1:** Enter your Discord token. ([Watch this video to know how to get your Discord token](https://www.youtube.com/watch?v=YEgFvgg7ZPI&ab_channel=GaugingGadgets))
    - **Step 2:** Enter Discord channel IDs (separated by commas) that you would like to monitor. (To get channeld id, right click on the channel name and select copy id)
@@ -38,11 +38,11 @@ Automatically open browser tabs when links matching given constraints are sent i
 
    **Note:** Do not edit the keyword and blacklist lines in the code.
 
-7. Save the file.
+6. Save the file.
 
-8. Run `open.py`, and the bot will automatically open Chrome browser tabs when links matching given constraints are sent in the specified Discord channels.
+7. Run `open.py`, and the bot will automatically open Chrome browser tabs when links matching given constraints are sent in the specified Discord channels.
 
-9. To change keywords at any point, press `Ctrl + c` to terminate the script. Then simply run the script again and enter new words when prompted.
+8. To change keywords at any point, press `Ctrl + c` to terminate the script. Then simply run the script again and enter new words when prompted.
 
 ## Requirements
 
