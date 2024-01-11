@@ -24,9 +24,7 @@ Automatically open browser tabs when links matching given constraints are sent i
 
 3. Download and run [diswatcher.exe](https://github.com/anishBudha/diswatcher/releases/download/v0.1.1/diswatcher.exe) - click to download.
    > OR
-3. Download Files from github.
-
-4. Copy `open.py` to your desktop.
+4. Download Files from github.
 
 5. Run `open.py` and follow the prompts:
 
